@@ -1,9 +1,6 @@
 <p align="center">
-
-# Sarannya Dayanandan
-
-### From connected vehicles to Enterprise AI, I'm building systems that people trust, adopt, and grow with.
-
+<img width="977" height="336" alt="ChatGPT Image Jul 14, 2026 at 10_31_17 AM" src="https://github.com/user-attachments/assets/285e3a6c-a3ad-46bb-84fe-a18ee4b300f3" />
+  
 </p>
 
 ---
