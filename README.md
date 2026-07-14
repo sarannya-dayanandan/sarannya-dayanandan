@@ -15,7 +15,7 @@ Today, I work in **Enterprise AI Transformation**, collaborating with engineerin
 ## 📆 What I Do
 <img width="1463" height="632" alt="What I Do" src="https://github.com/user-attachments/assets/f7400947-2c91-4694-abc7-792a9f35b521" />
 
-## 🌱 What I'm Building
+## 🌱 What I'm Building - Personal Ventures
 <img width="1371" height="674" alt="WhatI&#39;mBuilding" src="https://github.com/user-attachments/assets/ce027f99-7fc4-421d-8b88-c2cf029711a4" />
 
 ## 🚀 Looking Ahead
