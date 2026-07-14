@@ -1,8 +1,6 @@
+<img width="977" height="336" alt="Header" src="https://github.com/user-attachments/assets/8ade0927-2171-4ebb-bc36-7481f6fc25fc" />
 
-<img width="977" height="336" alt="ChatGPT Image Jul 14, 2026 at 10_31_17 AM" src="https://github.com/user-attachments/assets/285e3a6c-a3ad-46bb-84fe-a18ee4b300f3" />
-  
-
-> ## 🌿 My Journey So Far
+## 🌿 My Journey So Far
 
 Curiosity has been the common thread throughout my career. It has taken me from engineering connected vehicles, to working alongside executive leadership, and now to helping enterprises adopt AI at scale.
 
@@ -12,18 +10,18 @@ As my curiosity grew, I found myself wanting to understand a different kind of s
 
 Today, I work in **Enterprise AI Transformation**, collaborating with engineering teams, technology partners, and business leaders to help organizations move from AI experimentation to meaningful adoption. Along the way, I've learned that successful transformation is rarely just a technical challenge. It's equally about people, systems, and the decisions that connect them.
 
-<img width="1481" height="599" alt="ChatGPT Image Jul 14, 2026 at 12_18_58 PM" src="https://github.com/user-attachments/assets/a5394050-728e-4100-a3b8-5ff9f8b3e564" />
+<img width="1481" height="599" alt="Journey-So-Far" src="https://github.com/user-attachments/assets/73809a1f-fabc-4cd7-b38e-dd7f779b5186" />
 
-> ## 📆 What I Do
-<img width="1463" height="632" alt="ChatGPT Image Jul 14, 2026 at 11_06_57 AM" src="https://github.com/user-attachments/assets/f3bb022d-08fe-484a-848d-3ea7af5264e9" />
+## 📆 What I Do
+<img width="1463" height="632" alt="What I Do" src="https://github.com/user-attachments/assets/f7400947-2c91-4694-abc7-792a9f35b521" />
 
-> ## 🌱 What I'm Building
-<img width="1371" height="674" alt="ChatGPT Image Jul 14, 2026 at 11_34_38 AM" src="https://github.com/user-attachments/assets/f2477926-9a10-4a59-8af0-eb9181c5f9a6" />
+## 🌱 What I'm Building
+<img width="1371" height="674" alt="WhatI&#39;mBuilding" src="https://github.com/user-attachments/assets/ce027f99-7fc4-421d-8b88-c2cf029711a4" />
 
-> ## 🚀 Looking Ahead
+## 🚀 Looking Ahead
 I'm excited by opportunities where engineering, strategy, behavioural science, and AI come together to solve meaningful problems. Whether it's helping enterprises transform, building products from scratch, or creating technology that strengthens communities, I'm always looking for the next challenge worth building.
 
-> ## 🤝 Let's Connect
+## 🤝 Let's Connect
 <p align="center">
 <a href="https://github.com/sarannya-dayanandan">GitHub</a>
 &nbsp;•&nbsp;
